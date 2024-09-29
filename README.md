@@ -97,3 +97,12 @@ If your code works on your phone, it will run on the Quest.
 May the code be with you all.
 
 Have fun flying at **Quai 10**!
+
+
+
+
+
+-------------------------
+
+ Code Package to build this project:
+ - https://github.com/EloiStree/2024_09_26_SharpThemAllStartPack/issues/2
