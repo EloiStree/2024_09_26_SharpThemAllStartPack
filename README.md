@@ -80,3 +80,20 @@ This is now a personal challenge—I'll keep increasing the number of projectile
 If you're up for the challenge, ping me on Discord with the message: **"Too easy, we need more!"**  
 ![image](https://github.com/user-attachments/assets/65b11142-95e5-41f3-a80c-b53611834b03)  
 Contact: https://github.com/EloiStree
+
+
+
+## Final Goal
+
+We have one week to learn as much as we can about C# to move and survive in this game.  
+Feel free to add some human interface elements (joystick, keyboard, etc.)—it makes the game more fun.
+
+However, the difficulty level of the game will be adjusted to not go easy on you if you lose some drones.  
+So, focus on writing code that works without manual input.
+
+The platform for the final test of the workshop is the **Quest 3/3s**.  
+If your code works on your phone, it will run on the Quest.
+
+May the code be with you all.
+
+Have fun flying at **Quai 10**!
