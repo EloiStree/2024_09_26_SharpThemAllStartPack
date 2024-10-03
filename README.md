@@ -154,6 +154,20 @@ Current Packages to build the project.
     "com.unity.inputsystem": "1.7.0",
     "com.unity.probuilder": "5.2.3",
 
+
+
+    "be.elab.developernote": "https://github.com/EloiStree/2024_08_09_DeveloperNote.git",
+    "be.elab.livingcodeattribute": "https://github.com/EloiStree/2024_08_18_LivingCodeGUID.git",
+    "be.elab.nprojectile": "https://github.com/EloiStree/2024_08_14_NetworkableAsteroidsGame.git",
+    "be.elab.snam16k": "https://github.com/EloiStree/2024_04_16_SNAM16K.git",
+    "be.elab.stayaliveexercice": "https://github.com/EloiStree/2024_08_15_StayAliveExercice.git",
+    "be.elab.tellotoy": "https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git",
+    "be.elab.tickcollection": "https://github.com/EloiStree/2024_08_05_TickCollection.git",
+    "be.elab.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+    "be.elab.watchtimelayersexecution": "https://github.com/EloiStree/2024_08_18_WatchTimeLayersExecution.git",
+    "be.elab.capsulecollisionutility": "https://github.com/EloiStree/2021_08_19_FTLBullets_CapsuleCollisionWithMathAndJob.git",
+   
+
 ```
 
 
