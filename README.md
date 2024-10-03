@@ -106,3 +106,62 @@ Have fun flying at **Quai 10**!
 
  Code Package to build this project:
  - https://github.com/EloiStree/2024_09_26_SharpThemAllStartPack/issues/2
+
+
+
+
+
+
+
+
+
+------------------
+
+
+
+Current Packages to build the project.
+``` json
+
+    "be.elab.3dbenchy": "https://github.com/EloiStree/2024_09_14_3DBenchy.git",
+    "be.elab.bedroomfromsketchfab": "https://github.com/EloiStree/2024_08_16_BedroomFromSketchab.git",
+    "be.elab.besttiming": "https://github.com/EloiStree/2024_09_06_BestTimingScore.git",
+    "be.elab.boattoy": "https://github.com/EloiStree/2023_09_15_KidToyBoatModeCode.git",
+    "be.elab.charleroifort": "https://github.com/EloiStree/2024_09_25_Charleroi1666.git",
+    "be.elab.developernote": "https://github.com/EloiStree/2024_08_09_DeveloperNote.git",
+    "be.elab.dualscreenstick": "https://github.com/EloiStree/2023_01_28_ScreenDualJoystick.git",
+    "be.elab.elabtoyrc": "https://github.com/EloiStree/2024_09_28_eLabToysRC.git",
+    "be.elab.flyingisland": "https://github.com/EloiStree/2024_09_10_FlyingIsland.git",
+    "be.elab.fpvtoy": "https://github.com/EloiStree/2024_10_02_KidToyFpvDronerModeCode.git",
+    "be.elab.hellocopter": "https://github.com/EloiStree/2024_09_10_HelicopterMove.git",
+    "be.elab.ilegamenid": "https://github.com/EloiStree/2024_09_11_FloatingIslandNidGaming.git",
+    "be.elab.irctoy": "https://github.com/EloiStree/2023_09_15_IToyControllerRC.git",
+    "be.elab.netshortspace": "https://github.com/EloiStree/2024_10_02_32767MMPlayZone.git",
+    "be.elab.patounerace": "https://github.com/EloiStree/2024_10_02_PatouneRace.git",
+    "be.elab.quaiboatnidar": "https://github.com/EloiStree/2024_09_23_Quai10Boat.git",
+    "be.elab.quaimeasure": "https://github.com/EloiStree/2024_09_22_Quai10Mesh.git",
+    "be.elab.quickfollowit": "https://github.com/EloiStree/2024_09_16_QuickFollowIt.git",
+    "be.elab.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+    "be.elab.renderscreenxr": "https://github.com/EloiStree/2024_09_17_DroneRenderScreenXR.git",
+    "be.elab.sketchfabdronemesh": "https://github.com/EloiStree/2024_08_05_SketchFabDroneMesh.git",
+    "be.elab.skidtoycar": "https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode.git",
+    "be.elab.skyriding": "https://github.com/EloiStree/2024_09_03_SkyRidingPath.git",
+    "be.elab.startpackboatoy": "https://github.com/EloiStree/2023_09_16_StartPackBoatToy.git",
+    "be.elab.startpackquaiscan": "https://github.com/EloiStree/2024_09_25_StartPackQuai1666.git",
+    "be.elab.submarinetoyrc": "https://github.com/EloiStree/2024_09_30_KidToySubmarineModeCode.git",
+    "be.elab.tellotoy": "https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git",
+    "be.elab.tickcollection": "https://github.com/EloiStree/2024_08_05_TickCollection.git",
+    "be.elab.uvdrawabledrones": "https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git",
+    "com.unity.inputsystem": "1.7.0",
+    "com.unity.probuilder": "5.2.3",
+
+```
+
+
+
+
+
+
+
+
+
+
